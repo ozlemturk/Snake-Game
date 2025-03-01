@@ -1,6 +1,7 @@
 # Snake Game
 
 This is a classic **Snake Game** built with Python and Pygame. In this game, the player controls a snake, which grows longer by eating apples. The goal is to eat as many apples as possible without running into walls or the snake's own body.
+
 <img width="444" alt="Ekran Resmi 2025-03-01 17 55 10" src="https://github.com/user-attachments/assets/80fbbf87-94f5-46f9-b50f-47fa6bafaaa7" />
 
 
